@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Swim Kit",
+  "short_name": "Swim Kit",
+  "description": "競泳の大会当日の持ち物チェックリスト",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#04182b",
+  "theme_color": "#04182b",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
